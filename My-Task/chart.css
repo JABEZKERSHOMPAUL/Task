@@ -1,0 +1,25 @@
+
+.head{
+    display: flex;
+    justify-content: center;
+}
+
+.box{
+    margin: auto;
+    width: 30%;
+    
+}
+table ,td,th{
+    border: 2px solid grey;
+    text-align:center;
+    border-collapse:collapse ;
+   
+}
+tr,th,td{
+    bottom:50px ;
+    top: 50px;
+    right:50px;
+    left: 50px;
+
+    
+}

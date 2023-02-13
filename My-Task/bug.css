@@ -1,0 +1,48 @@
+.head h1{
+   width: 100%;
+   color:  grey;
+   text-align: center;
+}
+.row-1{
+   color: gray;
+   display: flex;
+}
+.col-1{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   width: 25%;
+   
+   
+}
+.h-1{
+   margin-left: 10px;
+   
+}
+.par-1{
+   padding: 10px;
+
+}
+.col-2{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   width: 25%;
+   margin-left: 50px;
+}
+.par-2{
+   
+   padding: 10px;
+}
+.row-2{
+   display: flex;
+   color: gray;
+}
+.bg{
+   
+   background-color: aliceblue;
+   max-width: auto;
+   
+}
+
+

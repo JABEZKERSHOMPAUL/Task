@@ -1,0 +1,70 @@
+.container{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.heading{
+    color: gray;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    font-size: 15px;
+    align-items: center;
+    width: 40%;
+    margin: auto;
+    
+}
+
+.heading p{
+    text-align: center;
+    line-height: 1.8;
+}
+.form{
+    color: gray;
+}
+.row{
+    display:flex;
+}
+.col-1{
+    
+    width: 60%;
+    margin-left: 80px;
+    margin-right: 70px;
+    height: 600px;
+}
+
+.form-row{
+    display: flex;
+    justify-content: space-between;
+}
+.email{
+    float: left;
+    left: 0px;
+    margin-top: 20px;
+   ;
+}
+.form-row-3{
+    float: left;
+    left: 0px;
+    width: 500px;
+    margin-top: 20px;
+}
+.message{
+    float: left;
+    left: 0px;
+}
+.btn{
+    margin-top: 10px;
+    margin-left: 15px;
+    height:auto;    
+}
+.h-2{
+     display: flex;
+    flex-direction: column;   
+}
+.r-1{
+    margin-bottom:10px ;
+    padding-left: 25px;
+    width: 250px;
+}
+

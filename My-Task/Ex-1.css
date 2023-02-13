@@ -1,0 +1,41 @@
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.col-1{
+    width: 50%;
+    height: 500px;
+    
+}
+
+.col-2{
+    width: 50%;
+    height: 500px;
+    
+}
+.btn{
+    margin-top: 50px;
+    
+
+}
+.in{
+    width: 300px;
+    height:30px ;
+    border-radius: 10px;
+    border-color: black;
+}
+.fon{
+    font-size: large;
+}
+.imj{
+    width: 225px;
+    height: 225px;
+    
+}
+.par{
+    font-size: large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
